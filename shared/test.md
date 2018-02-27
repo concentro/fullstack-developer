@@ -28,13 +28,13 @@ Los costos de operación generales de todas las sucursales es de $80,000.00 peso
 Realizar un software de toma de decisiones **seguro** que nos permita:
 
 Mandatorio:
-* Consultar el precio ideal si queremos una ganancia con un margen de 70% y cuantos zapatos deben ser vendidos para lograrlo.
+* Consultar el precio ideal por sucursal si queremos una ganancia con un margen de 70% y cuantos zapatos deben ser vendidos para lograrlo.
 * Consultar ganancia si existe venta a crédito de 3, 6, 9 y 12 meses con una tasa mensual del 4.7% basada en el precio calculado previamente.
-* Exportar todo a PDF
 * Modificar el # de lineas de producción
-* Modificar el # obreros por linea de producción
 
 Opcionales
+* Modificar el # obreros por linea de producción
+* Exportar todo a PDF
 * Modificar el precio de los materiales
 * Modificar el numero de zapatos producidos por obrero
 * Modificar el numero de sucursales y distancia de la fabrica.
@@ -53,9 +53,9 @@ Mandatorio:
 * ReactJS 16 / AngularJS / Angular 5
 * Chartjs / d3
 * Git
-* Pruebas unitarias
 
 Plus:
+* Pruebas unitarias
 * Ofuscación de código
 * Minificación de JS y CSS
 * Herramientas de task (gulp, grunt, etc)
@@ -74,11 +74,11 @@ Mandatorio:
 * Login
 * Dashboard general
 * Graficas lineales / barras
-* CRUD / lineas de producción
-* Exportación a PDF del dashboard
 * Pruebas unitarias
 
 Plus:
+* CRUD / lineas de producción
+* Exportación a PDF del dashboard
 * CRUD para cada valor de configuración
 * Mejores prácticas según framework
 * Realtime Dashboard
@@ -91,7 +91,6 @@ Plus:
 El proyecto entregable en un archivo zip, deberá contener:
 
 * Código fuente en directorio "source"
-* Video explicativo funcional
 * Documento con la solución explicativa
 * Instrucciones de ejecución del proyecto.
 
