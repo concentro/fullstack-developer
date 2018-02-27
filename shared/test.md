@@ -74,9 +74,9 @@ Mandatorio:
 * Login
 * Dashboard general
 * Graficas lineales / barras
-* Pruebas unitarias
 
 Plus:
+* Pruebas unitarias
 * CRUD / lineas de producción
 * Exportación a PDF del dashboard
 * CRUD para cada valor de configuración
