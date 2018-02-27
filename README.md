@@ -32,4 +32,5 @@ Tome en cuenta su amplio conjunto de capacidades tecnológicas y mantenga un niv
   * Arquitectura de Cloud Computing
   * Linux, herramientas para CI / CD y scripts de shell.
   * DevOps
-
+### Test
+[Test técnico](/shared/test.md)
