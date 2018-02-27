@@ -47,10 +47,10 @@ Realizar un single page application con las siguientes tecnologías:
 
 Mandatorio:
 
-* NodeJS /// Express | Java /// Vertx / Spring
+* NodeJS /// Express | Java /// Vertx / Spring | Python | C# | PHP
 * MySql / PostgreSQL
 * CSS Framework (cualquiera)
-* ReactJS 16 / AngularJS / Angular 5
+* ReactJS 16 / AngularJS / Angular 5 / JQuery
 * Chartjs / d3
 * Git
 
